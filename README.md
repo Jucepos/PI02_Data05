@@ -22,6 +22,7 @@ OBJETIVOS: :arrow_down:
 ​ Se proveen los siguientes archivos para realizar el proyecto:
 
 'hospitalizaciones_train.csv': Contiene 410000 registros y 15 dimensiones, el cual incluye la información numérica de la cantidad de días de estancia hospitalaria.
+
 'hospitalizaciones_test.csv': Contiene 90000 registros y 14 dimensiones, el cual no incluye la información de la cantidad de días de estancia hospitalaria.​
 
 ***
